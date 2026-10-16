@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+    
+}
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    text-align: center;
+}
+.heading {
+    color:black
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+
+img {
+    margin-bottom: auto;
+    margin-right: auto;
+
+}
