@@ -38,6 +38,19 @@ nav a {
 main {
     width: 80%;
     margin: 30px auto;
-    background-color: white;
+    background-color: rgb(60, 78, 124);
     padding: 20px;
+}
+
+section {
+    background-color: #30663a;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #4f6d7a;
+    color: white;
+    text-align: center;
+    padding: 15px;
 }
