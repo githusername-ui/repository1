@@ -10,7 +10,8 @@ h1 {
 
 .p {
     font-family:'Times New Roman', Times, serif;
-    color:rgb(65, 54, 54);
+    color:black;
+    text-align:center;
 
 }
 header {
